@@ -141,7 +141,7 @@
       <unit id="org.eclipse.rse.local.feature.group" version="3.7.0.201603211627"/>
       <unit id="org.eclipse.rse.useractions.feature.group" version="3.7.0.201603211627"/>
 
-      <repository location="http://download.jboss.org/jbosstools/updates/requirements/neon/201609281000/"/>
+      <repository id="jbt-neon" location="http://download.jboss.org/jbosstools/updates/requirements/neon/"/>
     </location>
 
     <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="slicer" includeSource="true" type="InstallableUnit">
